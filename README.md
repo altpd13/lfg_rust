@@ -1,2 +1,2 @@
 # lfg_rust
-lfg
+Rust for Dummies
